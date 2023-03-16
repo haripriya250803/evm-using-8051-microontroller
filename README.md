@@ -1,1 +1,1 @@
-# evm-using-8051-microontroller
+# evm-using-8051-microcontroller
